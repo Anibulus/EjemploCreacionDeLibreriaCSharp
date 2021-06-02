@@ -5,7 +5,7 @@ using System.Text;
 using static System.Console;
 namespace CreacionDeLibrerias
 {
-    class FileHelper
+    public class FileHelper
     {
         public List<FileObjectInformation> getFilesSystemObject(string path)
         {
